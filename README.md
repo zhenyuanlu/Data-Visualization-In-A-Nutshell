@@ -1,7 +1,7 @@
 ## License and Reference
 Cite:
 
-Zhenyuan Lu, Data Visualization In A Nutshell, 2022, zhenyuanlu.github.io
+<code>Zhenyuan Lu, Data Visualization In A Nutshell, 2022, zhenyuanlu.github.io</code>
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
